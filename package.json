@@ -1,7 +1,7 @@
 {
+  "homepage": "https://gandhesainath.github.io/Ecommreact",
   "name": "Ecommreact",
   "version": "0.1.0",
-  "homepage": "https://github.com/gandhesainath/Ecommreact",
   "private": true,
   "dependencies": {
     "@react-oauth/google": "^0.12.1",
@@ -23,7 +23,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
