@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ecommreact/static/css/main.82e805ca.css",
+    "main.js": "/Ecommreact/static/js/main.21e2279a.js",
+    "index.html": "/Ecommreact/index.html",
+    "main.82e805ca.css.map": "/Ecommreact/static/css/main.82e805ca.css.map",
+    "main.21e2279a.js.map": "/Ecommreact/static/js/main.21e2279a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82e805ca.css",
+    "static/js/main.21e2279a.js"
+  ]
+}
